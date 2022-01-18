@@ -1,2 +1,2 @@
 # React-Study
-For my React self-study
+For my self-study React project
