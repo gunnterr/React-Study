@@ -1,0 +1,15 @@
+
+[
+    {
+        "id": "e2",
+        "title": "New TV",
+        "amount": "799.49",
+        "date": {"year": 2021, "month" : 2, "day" : 12}
+    },
+    {
+        "id": "e1",
+        "title": "Toilet Paper",
+        "amount": "94.12",
+        "date": {"year": 2020, "month" : 7, "day" : 14}
+    }
+]
