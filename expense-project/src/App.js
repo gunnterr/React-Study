@@ -1,5 +1,3 @@
-import React from 'react';
-
 import expense_data from "./expense_data.json";
 import ExpenseList from './components/Expense/ExpenseList';
 
